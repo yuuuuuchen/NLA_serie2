@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+"""
+Zwar sind unser Computers heutzutage sehr leistungsfähig, jedoch bleibt die Tatsache, dass wir nur eine begrenzte 
+Anzahl der reelen Zahlen auf dem Computer realisieren können. Zur Approximation von reellen Zahlen werden die sogenannte 
+Maschinenzahl verwendet, bei dieser Vorgang ist Rundungsfehler leider nur schwer vermeidbar.
+D.h. bei der Verarbeitung numerischer Algorithmen auf 
+dem Computer treten zwangsläufig Fehler auf, die durch die Endlichkeit des Bereiches der auf einer solchen Maschine darstell-
+baren Zahlen bedingt sind. 
+
+| Unter Auslöschung versteht man in der Numerik den Verlust an Genauigkeit bei der Subtraktion fast gleich großer Gleitkommazahlen. Diese tritt vor allem auf, wenn der relative Fehler wesentlich größer ist als der absolute Fehler.
+
+| Diese Probleme der Numerik werden in den folgenden zwei Beispielen verdeutlicht:
+|       (1) Summation vieler zufällig generierten kleinen Zahlen mit verschiedenen Methoden und Datentypen (summe.py)
+|       (2) Die Berechnung von Eulersche Zahl mit verschiedenen Exponenten und Datentypen (euler.py)
+
+
+
+"""
